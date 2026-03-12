@@ -22,7 +22,6 @@ services:
     networks:
       - devops-net
 
-
   redis:
     image: redis:7
     ports:
